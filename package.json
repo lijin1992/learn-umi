@@ -1,0 +1,29 @@
+{
+  "name": "umi",
+  "version": "1.0.0",
+  "description": "umi test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/57code/umi.git"
+  },
+  "keywords": [
+    "umi"
+  ],
+  "author": "57code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/57code/umi/issues"
+  },
+  "homepage": "https://github.com/57code/umi#readme",
+  "dependencies": {
+    "antd": "^3.13.5",
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "umi-plugin-react": "^1.5.2"
+  }
+}
